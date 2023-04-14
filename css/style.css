@@ -1,0 +1,64 @@
+html,body{
+    height: 100%;
+}
+
+body {
+background-color: rgb(217,210,199);
+font-family: 'Roboto', sans-serif;
+height: 100%;
+}
+.navigation{
+background-color: rgb(78, 107, 148);
+
+}
+
+.header{
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(217,210,199);
+    color: rgb(78,107,148);
+    height: 20%;
+}
+
+.blue{
+    background-color: rgb(78, 107, 148);
+    color: whitesmoke;
+    padding: 10px;
+}
+
+.about{
+    height: 50%;
+    padding: 50px;
+    font-size: large;
+}
+
+
+.students{
+    background-color: aqua;
+}
+
+.halfdiv{
+    padding: 10px;
+}
+
+.gallery{
+    background-color: rgb(217,210,199);
+    color: whitesmoke;
+}
+
+.students{
+    background-color: #566573;
+    color: whitesmoke;
+}
+
+b{
+    color: #a8dadc;
+}
+
+.contact{
+    background-color: rgb(217,210,199);
+}
+
+.contact{
+    color:  rgb(78, 107, 148);
+}
